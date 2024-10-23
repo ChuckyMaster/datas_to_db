@@ -1,3 +1,4 @@
 output_csv/
 source_csv/
 source_json/
+.env/
